@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/tikz/commit/a6ba7fad8bc2a3beec4da6144c0906ac344943ab",
       "git:hexsha": "a6ba7fad8bc2a3beec4da6144c0906ac344943ab",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
